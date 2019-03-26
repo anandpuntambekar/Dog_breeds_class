@@ -5,7 +5,7 @@ The Project provides a step by step method to classify images into one of 100 + 
 
 ## Installing / Getting started
 
-You need to use fastai 0.7; please follow the installation instructions[here](https://forums.fast.ai/t/fastai-v0-install-issues-thread/24652)  .
+You need to use fastai 0.7; please follow the installation instructions [here](https://forums.fast.ai/t/fastai-v0-install-issues-thread/24652)  .
 
 
 ## Developing
